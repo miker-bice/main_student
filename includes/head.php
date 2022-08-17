@@ -17,6 +17,3 @@
   
     <!-- INSERT MAIN CONTENT HERE -->
 </body>
-    <?php
-        include 'includes/footer.php';
-    ?>

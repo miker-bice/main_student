@@ -2,9 +2,16 @@
     include 'includes/head.php';
 ?>
 
-<div class="main-content">
+<!-- navbar -->
+<?php 
+    include 'includes/navbar.php';
+?>
 
-    <h1>this is a sample content</h1>
-    <a href="" class="btn btn-primary">Click Here</a>
-
+<div class="main-content container text-center py-4">
+    <h1>this is the home content</h1>
+    <a href="" class="btn btn-primary">Click here</a>
 </div>
+
+<?php 
+    include 'includes/footer.php';
+?>

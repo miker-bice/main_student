@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     
     <!-- CSS LINK -->
+    <link rel="stylesheet" href="../css/styles.css">
 
     <title>Student</title>
 </head>

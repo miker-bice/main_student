@@ -10,7 +10,7 @@
 <!-- insert main content here -->
 <div class="main-content container text-center px-4 py-4">
     <div class="video-container h-100">
-        <iframe class="" width="450px" height="480px" src="https://www.youtube.com/embed/ABWDYw9Zyps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="lesson-video" width="450px" height="480px" src="https://www.youtube.com/embed/ABWDYw9Zyps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="lesson-title py-4">
         <h1>Lesson 3: The Animal Kingdom</h1>

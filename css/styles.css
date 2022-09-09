@@ -9,3 +9,12 @@
     height: 14rem;
     max-width: 100%;
 }
+
+
+
+/* MEDIA QUERIES */
+@media screen and (min-width: 768px) {
+    .lesson-video{
+        width: 100%;
+    }
+}
